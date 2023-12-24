@@ -4,7 +4,8 @@
 % Author: Svetlozar Kosev
 % Last modified: 24 June 2023
 %%%%%%%%%%%%%%%
-\documentclass[11pt,a4paper,twoside]{article}
+\documentclass[11pt,a4paper]{article}
+%\documentclass[11pt,a4paper,twoside]{article}
 
 \usepackage[T2A]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -42,29 +43,36 @@ includeheadfoot]{geometry} % Use similar margins to the Word Template
 	\renewcommand{\headrulewidth}{1.5pt}
 	\renewcommand{\footrulewidth}{1.5pt}
 }
-\fancypagestyle{body}{
-	\fancyhf{}
-	\fancyhead[LE,RO]{Раздел \textbf{\nouppercase{\leftmark}}}
-	\fancyhead[RE,LO]{\thepage}
-}
-\fancypagestyle{contents}{
-	\fancyhf{}
-	\fancyhead[LE,RO]{\thepage}
-	\fancyhead[RE,LO]{\leftmark}
-	\renewcommand{\headrulewidth}{1.0pt}
-	\renewcommand{\footrulewidth}{1.0pt}
-}
-\fancypagestyle{appendix}{
-	\fancyhf{}
-	\fancyhead[LE,RO]{\thepage}
-	\fancyhead[RE,LO]{Приложения}
-	\renewcommand{\headrulewidth}{1.0pt}
-	\renewcommand{\footrulewidth}{1.0pt}
-}
+%\fancypagestyle{body}{
+%	\fancyhf{}
+%	\fancyhead[LE,RO]{Раздел \textbf{\nouppercase{\leftmark}}}
+%	\fancyhead[RE,LO]{\thepage}
+%}
+%\fancypagestyle{contents}{
+%	\fancyhf{}
+%	\fancyhead[LE,RO]{\thepage}
+%	\fancyhead[RE,LO]{\leftmark}
+%	\renewcommand{\headrulewidth}{1.0pt}
+%	\renewcommand{\footrulewidth}{1.0pt}
+%}
+%\fancypagestyle{introduction}{
+%	\fancyhf{}
+%	\fancyhead[LE,RO]{\thepage}
+%	\fancyhead[RE,LO]{\leftmark}
+%	\renewcommand{\headrulewidth}{1.0pt}
+%	\renewcommand{\footrulewidth}{1.0pt}
+%}
+%\fancypagestyle{appendix}{
+%	\fancyhf{}
+%	\fancyhead[LE,RO]{\thepage}
+%	\fancyhead[RE,LO]{Приложения}
+%	\renewcommand{\headrulewidth}{1.0pt}
+%	\renewcommand{\footrulewidth}{1.0pt}
+%}
 
 % Begin the actual document
 \begin{document}
-	\pagestyle{body}
+%	\pagestyle{body}
 	
 	\title{}
 	\date{\vspace{-18ex}}
@@ -106,12 +114,14 @@ includeheadfoot]{geometry} % Use similar margins to the Word Template
 	\newpage
 	
 	\tableofcontents
-	\thispagestyle{contents}
+%	\thispagestyle{contents}
 	\newpage
 	
 	% Hence we utilize the article document class and 'Section' higher level partitioning,
 	% rather than 'report'/'Chapter', \input is more suitable than \include.
-	\include{abstract/Introduction.tex}{Въведение}\label{Abstr}
+%	\clearpage
+%	\thispagestyle{empty}
+	\include{abstract/Introduction.tex}{Въведение}\label{Introduction}
 	%\input{abstract}
 	\newpage
 	
