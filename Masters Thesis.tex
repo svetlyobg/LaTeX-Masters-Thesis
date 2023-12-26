@@ -1,160 +1,129 @@
 %%%%%%%%%%%%%%%
-% This bachelor's/master's degree thesis style is based of already applied MS Word template in the 
+% This bachelor's/master's degree thesis style is based of already applied MS Word template in the
 % Faculty of Electrical Engineering and Electronics of Technical University Gabrovo.
 % Author: Svetlozar Kosev
 % Last modified: 24 June 2023
 %%%%%%%%%%%%%%%
-\documentclass[11pt,a4paper]{article}
+\documentclass[11pt, a4paper]{article}
 %\documentclass[11pt,a4paper,twoside]{article}
 
 \usepackage[T2A]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage[bulgarian,english]{babel}
-
+\usepackage[bulgarian, english]{babel}
 %\setmainfont{Times New Roman}
 
-\setcounter{tocdepth}{4}        %sections + subsections in the TOC
-\addto{\captionsenglish}{
-	\renewcommand*{\contentsname}{Съдържание}
-	\renewcommand*{\figurename}{Фигури}
-	\renewcommand*{\tablename}{Таблици.}
-	\renewcommand*{\refname}{Библиография}
-	\renewcommand*{\appendixname}{Приложение}   
-}
+\setcounter{tocdepth}{4} %sections + subsections in the TOC
+\addto{\captionsenglish}{ 
+	\renewcommand*{\contentsname}{Съдържание} 
+	\renewcommand*{\figurename}{Фигури} 
+	\renewcommand*{\tablename}{Таблици.} 
+	\renewcommand*{\refname}{Библиография} 
+	\renewcommand*{\appendixname}{Приложение} 
+	}
 
 %Put here the other needed macro packages.
-\usepackage{graphicx}           %for the raster graphics
-\usepackage[warn]{textcomp}     %for the degree (\textdegree) and number (\textnumero) sign
-\usepackage{hyperref}           %for the URLs
-\usepackage{hyphenat}           %for hyphenation of words containing hyphen
-\usepackage{fancyhdr}           %for the headers design
+\usepackage{graphicx} %for the raster graphics
+\usepackage[warn]{
+	textcomp
+} %for the degree (\textdegree) and number (\textnumero) sign
+\usepackage{hyperref} %for the URLs
+\usepackage{hyphenat} %for hyphenation of words containing hyphen
+\usepackage{fancyhdr} %for the headers design
 \usepackage[
 headheight=22pt,
-top    = 1.50cm,
-bottom = 1.80cm,
-left   = 2.50cm,
-right  = 2.50cm,
-includeheadfoot]{geometry} % Use similar margins to the Word Template
+top=1.50cm,
+bottom=1.80cm,
+left=2.50cm,
+right=2.50cm,
+includeheadfoot
+]{geometry} % Use similar margins to the Word Template
 
-% Define the page styles
-\fancypagestyle{titlepage}{
-	\fancyhf{}
-	\fancyhead[C]{\LARGE{\textbf{Технически университет – Габрово}}}
-	\renewcommand{\headrulewidth}{1.5pt}
-	\renewcommand{\footrulewidth}{1.5pt}
-}
+
 %\fancypagestyle{body}{
-%	\fancyhf{}
-%	\fancyhead[LE,RO]{Раздел \textbf{\nouppercase{\leftmark}}}
-%	\fancyhead[RE,LO]{\thepage}
-%}
+	%	\fancyhf{}
+	%	\fancyhead[LE,RO]{Раздел \textbf{\nouppercase{\leftmark}}}
+	%	\fancyhead[RE,LO]{\thepage}
+	%}
 %\fancypagestyle{contents}{
-%	\fancyhf{}
-%	\fancyhead[LE,RO]{\thepage}
-%	\fancyhead[RE,LO]{\leftmark}
-%	\renewcommand{\headrulewidth}{1.0pt}
-%	\renewcommand{\footrulewidth}{1.0pt}
-%}
+	%	\fancyhf{}
+	%	\fancyhead[LE,RO]{\thepage}
+	%	\fancyhead[RE,LO]{\leftmark}
+	%	\renewcommand{\headrulewidth}{1.0pt}
+	%	\renewcommand{\footrulewidth}{1.0pt}
+	%}
 %\fancypagestyle{introduction}{
-%	\fancyhf{}
-%	\fancyhead[LE,RO]{\thepage}
-%	\fancyhead[RE,LO]{\leftmark}
-%	\renewcommand{\headrulewidth}{1.0pt}
-%	\renewcommand{\footrulewidth}{1.0pt}
-%}
+	%	\fancyhf{}
+	%	\fancyhead[LE,RO]{\thepage}
+	%	\fancyhead[RE,LO]{\leftmark}
+	%	\renewcommand{\headrulewidth}{1.0pt}
+	%	\renewcommand{\footrulewidth}{1.0pt}
+	%}
 %\fancypagestyle{appendix}{
-%	\fancyhf{}
-%	\fancyhead[LE,RO]{\thepage}
-%	\fancyhead[RE,LO]{Приложения}
-%	\renewcommand{\headrulewidth}{1.0pt}
-%	\renewcommand{\footrulewidth}{1.0pt}
-%}
+	%	\fancyhf{}
+	%	\fancyhead[LE,RO]{\thepage}
+	%	\fancyhead[RE,LO]{Приложения}
+	%	\renewcommand{\headrulewidth}{1.0pt}
+	%	\renewcommand{\footrulewidth}{1.0pt}
+	%}
 
 % Begin the actual document
 \begin{document}
-%	\pagestyle{body}
+	%	\pagestyle{body}
 	
-	\title{}
-	\date{\vspace{-18ex}}
-	\maketitle
 	
-	\thispagestyle{titlepage}
-	\begin{center}
-		{\includegraphics[width=3cm]{images/logo.jpg}\\    
-			\huge{\textbf{Факултет „Електроника и електротехника”}}\\
-			\huge{\textbf{Катедра „Компютърни системи и технологии”}}\\
-			\vspace*{0.5cm}
-			\Large{\textbf{Специалност: "Компютърни системи и технологии",}}\\
-			%\Large{\textbf{Магистърска програма по "Метеорология"}}\\
-			\vspace*{1.5cm}
-			\Huge{\textbf{Дипломна работа}}\\
-			\Large{\textbf{за}}\\
-			\Large{\textbf{придобиване на образователно-квалификационна степен "магистър"}}\\
-			\Large{\textbf{на}}\\
-			\Large{\textbf{инж. Светлозар В. Косев, факултетен \textnumero 21605006}}\\
-			\vspace*{0.7cm}
-			%    \Huge{\textbf{Тема: „Изграждане и мигриране към локална сървърна инфраструктура с HPE ProLiant ML350 Gen10 и Windows Server 2016 Standard “}}\\
-			\huge{\textbf{Тема: „Изграждане и мигриране към локална сървърна инфраструктура с HPE ProLiant ML350 Gen10 и Windows Server 2016 Standard “}}\\
-			\vspace*{1cm}
-			\begin{flushleft}                
-				\large{\textbf{Ръководител катедра:}}\hspace{3cm} \large{\textbf{Научен ръководител:}}
-			\end{flushleft}    
-			\begin{flushright}
-				% Change the \hspace argument depending of the names length.                            
-				\Large{\textbf{/доц. Валентина Кукенска/}}\hspace{4cm} \Large{\textbf{/доц. Делян Генков/}}     
-			\end{flushright}
-			%\begin{flushleft}    
-			% \Large{\textbf{Консултант:}}\\
-			%\hspace{5cm}\Large{\textbf{/Eжко Бежко/}}
-			%\end{flushleft}
-			\vspace*{1.7cm}
-			\Large{Габрово, 2021}    
-		}
-	\end{center}
+	\include{chapters/Thesis Title Page}
+	
 	\newpage
+	\clearpage
 	
 	\tableofcontents
-%	\thispagestyle{contents}
+	%	\thispagestyle{contents}
 	\newpage
 	
 	% Hence we utilize the article document class and 'Section' higher level partitioning,
 	% rather than 'report'/'Chapter', \input is more suitable than \include.
-%	\clearpage
-%	\thispagestyle{empty}
-	\include{abstract/Introduction.tex}{Въведение}\label{Introduction}
+	%	\clearpage
+	%	\thispagestyle{empty}
+	\include{abstract/Introduction.tex}
+	{Въведение}\label{Introduction}
 	%\input{abstract}
 	\newpage
 	
-	\include{chapters/Virtual machines.tex}{Виртуални машини}\label{Sect1}
+	\include{chapters/Virtual machines.tex}
+	{Виртуални машини}\label{Sect1}
 	%\input{Section1}
 	\newpage
 	
-	\include{chapters/Previous infrastructure, research and preparation.tex}{Предишна инфраструктура, изследване и подготовка}\label{Sect2}
+	\include{chapters/Previous infrastructure, research and preparation.tex}
+	{Предишна инфраструктура, изследване и подготовка}\label{Sect2}
 	%\input{Section2}
 	\newpage
 	
-	\include{chapters/New Infrastructure Requirements.tex}{Изисквания за нова инфраструктура}\label{Sect3}
+	\include{chapters/New Infrastructure Requirements.tex}
+	{Изисквания за нова инфраструктура}\label{Sect3}
 	%\input{Section3}
 	\newpage
 	
-	\include{chapters/Designing of the New Infrastructure.tex}{Проектиране на нова инфраструктура}\label{Sect4}
+	\include{chapters/Designing of the New Infrastructure.tex}
+	{Проектиране на нова инфраструктура}\label{Sect4}
 	%\input{Section4}
 	\newpage
 	
-	\include{abstract/Glossary of Terms.tex}{Речник на термини}\label{Sect5}
+	\include{abstract/Glossary of Terms.tex}
+	{Речник на термини}\label{Sect5}
 	%\input{Section5}
 	\newpage
 	
-
-
-\include{abstract/Bibliography.tex}{Използвана Литература}\label{Sect7}
-%\input{Section7}
-\newpage
-
-	\include{abstract/Acknowledgments.tex}\label{Ackn}
-
-\newpage
-%\section*{Благодарности}\{Ackn}
+	\include{abstract/Bibliography.tex}
+	{Използвана Литература}\label{Sect7}
+	%\input{Section7}
+	\newpage
+	
+	\include{abstract/Acknowledgments.tex}
+	\label{Ackn}
+	
+	\newpage
+	%\section*{Благодарности}\{Ackn}
 %\input{Acknowledgements}
 %\newpage
 %\pagestyle{contents}

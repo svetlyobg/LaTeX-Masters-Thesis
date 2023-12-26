@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.24)  24 DEC 2023 20:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.24)  26 DEC 2023 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -496,7 +496,8 @@ File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count278
 \l__pdf_internal_box=\box51
 )
-(Masters Thesis.aux (abstract/Introduction.aux) (chapters/Virtual machines.aux)
+(Masters Thesis.aux (chapters/Thesis Title Page.aux) (abstract/Introduction.aux
+) (chapters/Virtual machines.aux)
 (chapters/Previous infrastructure, research and preparation.aux)
 (chapters/New Infrastructure Requirements.aux)
 (chapters/Designing of the New Infrastructure.aux)
@@ -504,26 +505,26 @@ File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
 (abstract/Acknowledgments.aux))
 \openout1 = `"Masters Thesis.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -546,7 +547,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 74.
+Package hyperref Info: Link coloring OFF on input line 70.
 
 (Masters Thesis.out) (Masters Thesis.out)
 \@outlinefile=\write3
@@ -587,31 +588,41 @@ Package hyperref Info: Link coloring OFF on input line 74.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+\openout2 = `"chapters/Thesis Title Page.aux"'.
+
+(chapters/Thesis Title Page.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 80.
+(Font)              <12> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 80.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 80.
+(Font)              <6> on input line 18.
+
 
 LaTeX Warning: No \author given.
 
 <images/logo.jpg, id=7, 180.675pt x 180.675pt>
 File: images/logo.jpg Graphic file (type jpg)
 <use images/logo.jpg>
-Package pdftex.def Info: images/logo.jpg  used on input line 83.
+Package pdftex.def Info: images/logo.jpg  used on input line 20.
 (pdftex.def)             Requested size: 85.35826pt x 85.35835pt.
-[1{C:/Users/Rumi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+) [1
 
- <./images/logo.jpg>] (Masters Thesis.toc)
+
+{C:/Users/Rumi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/logo
+.jpg>] (Masters Thesis.toc)
 \tf@toc=\write4
 \openout4 = `"Masters Thesis.toc"'.
 
- [2]
+ [2
+
+
+
+]
 \openout2 = `abstract/Introduction.aux'.
 
  (abstract/Introduction.tex
-<images/1-1-1Център за данни.png, id=26, 427.707pt x 285.138pt>
+<images/1-1-1Център за данни.png, id=25, 427.707pt x 285.138pt>
 File: images/1-1-1Център за данни.png Graphic file (type png)
 <use images/1-1-1Център за данни.png>
 Package pdftex.def Info: images/1-1-1Център за данни.png  used on 
@@ -623,7 +634,7 @@ Overfull \hbox (10.06705pt too wide) in paragraph at lines 28--29
 ������ ������ �� ���������
  []
 
-<images/hypervisor2.png, id=28, 525.162pt x 417.2388pt>
+<images/hypervisor2.png, id=27, 525.162pt x 417.2388pt>
 File: images/hypervisor2.png Graphic file (type png)
 <use images/hypervisor2.png>
 Package pdftex.def Info: images/hypervisor2.png  used on input line 34.
@@ -632,6 +643,7 @@ Package pdftex.def Info: images/hypervisor2.png  used on input line 34.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) [3
+
 
  <./images/1-1-1Център за данни.png>] [4 <./images/hypervisor2.png
 >] [5
@@ -687,7 +699,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 \openout2 = `abstract/Acknowledgments.aux'.
 
 
-(abstract/Acknowledgments.tex) (Masters Thesis.aux (abstract/Introduction.aux)
+(abstract/Acknowledgments.tex) (Masters Thesis.aux
+(chapters/Thesis Title Page.aux) (abstract/Introduction.aux)
 (chapters/Virtual machines.aux)
 (chapters/Previous infrastructure, research and preparation.aux)
 (chapters/New Infrastructure Requirements.aux)
@@ -702,26 +715,25 @@ Package rerunfilecheck Info: File `"Masters Thesis".out' has not changed.
 (rerunfilecheck)             Checksum: 5ED544F668E5F391E2A3CD68BC668454;116.
  ) 
 Here is how much of TeX's memory you used:
- 11755 strings out of 474494
- 191963 string characters out of 5753731
- 1931460 words of memory out of 5000000
- 33811 multiletter control sequences out of 15000+600000
- 572634 words of font info for 60 fonts, out of 8000000 for 9000
+ 11778 strings out of 474494
+ 193102 string characters out of 5753731
+ 1930460 words of memory out of 5000000
+ 33828 multiletter control sequences out of 15000+600000
+ 571814 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1251b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,1211b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labi109
-5.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
+5.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx
 1095.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
-abx1095.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+arm1095.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
 0\larm1440.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
 i600\labx1200.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
 /dpi600\labx2488.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
 t2a/dpi600\labx1440.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\labx2074.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/
-lh/lh-t2a/dpi600\labx1728.pk>
-Output written on "Masters Thesis.pdf" (11 pages, 2916432 bytes).
+lh-t2a/dpi600\labx2074.pk>
+Output written on "Masters Thesis.pdf" (11 pages, 2906224 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
+ 346 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
  24 words of extra memory for PDF output out of 10000 (max. 10000000)
 
