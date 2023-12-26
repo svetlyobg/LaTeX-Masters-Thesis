@@ -12,14 +12,19 @@
 \usepackage[bulgarian, english]{babel}
 %\setmainfont{Times New Roman}
 
+\renewcommand{\listoffigures}{Списък на фигури}
+
+
 \setcounter{tocdepth}{4} %sections + subsections in the TOC
 \addto{\captionsenglish}{ 
 	\renewcommand*{\contentsname}{Съдържание} 
-	\renewcommand*{\figurename}{Фигури} 
-	\renewcommand*{\tablename}{Таблици.} 
+	\renewcommand*{\figurename}{Фигура} 
+	\renewcommand*{\tablename}{Таблица} 
 	\renewcommand*{\refname}{Библиография} 
 	\renewcommand*{\appendixname}{Приложение} 
 	}
+	
+%\renewcommand{\listfigurename}{Списък на фигури}
 
 %Put here the other needed macro packages.
 \usepackage{graphicx} %for the raster graphics
@@ -68,17 +73,16 @@ includeheadfoot
 
 % Begin the actual document
 \begin{document}
-	%	\pagestyle{body}
-	
-	
-	\include{chapters/Thesis Title Page}
-	
+	%	\pagestyle{body}	
+	\include{chapters/Thesis Title Page}	
 	\newpage
-	\clearpage
-	
+	\clearpage	
 	\tableofcontents
-	%	\thispagestyle{contents}
 	\newpage
+	\listoffigures
+		\newpage
+		\listoftables
+			\newpage
 	
 	% Hence we utilize the article document class and 'Section' higher level partitioning,
 	% rather than 'report'/'Chapter', \input is more suitable than \include.

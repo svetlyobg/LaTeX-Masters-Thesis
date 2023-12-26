@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.24)  26 DEC 2023 13:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.24)  26 DEC 2023 13:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -505,26 +505,26 @@ File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
 (abstract/Acknowledgments.aux))
 \openout1 = `"Masters Thesis.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -547,7 +547,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 70.
+Package hyperref Info: Link coloring OFF on input line 75.
 
 (Masters Thesis.out) (Masters Thesis.out)
 \@outlinefile=\write3
@@ -618,11 +618,16 @@ Package pdftex.def Info: images/logo.jpg  used on input line 20.
 
 
 
-]
+] [3] (Masters Thesis.lot)
+\tf@lot=\write5
+\openout5 = `"Masters Thesis.lot"'.
+
+ [4]
 \openout2 = `abstract/Introduction.aux'.
 
- (abstract/Introduction.tex
-<images/1-1-1Център за данни.png, id=25, 427.707pt x 285.138pt>
+
+(abstract/Introduction.tex
+<images/1-1-1Център за данни.png, id=34, 427.707pt x 285.138pt>
 File: images/1-1-1Център за данни.png Graphic file (type png)
 <use images/1-1-1Център за данни.png>
 Package pdftex.def Info: images/1-1-1Център за данни.png  used on 
@@ -634,7 +639,7 @@ Overfull \hbox (10.06705pt too wide) in paragraph at lines 28--29
 ������ ������ �� ���������
  []
 
-<images/hypervisor2.png, id=27, 525.162pt x 417.2388pt>
+<images/hypervisor2.png, id=36, 525.162pt x 417.2388pt>
 File: images/hypervisor2.png Graphic file (type png)
 <use images/hypervisor2.png>
 Package pdftex.def Info: images/hypervisor2.png  used on input line 34.
@@ -642,17 +647,17 @@ Package pdftex.def Info: images/hypervisor2.png  used on input line 34.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [3
+) [5
 
 
- <./images/1-1-1Център за данни.png>] [4 <./images/hypervisor2.png
->] [5
+ <./images/1-1-1Център за данни.png>] [6 <./images/hypervisor2.png
+>] [7
 
 
 ]
 \openout2 = `"chapters/Virtual machines.aux"'.
 
- (chapters/Virtual machines.tex) [6
+ (chapters/Virtual machines.tex) [8
 
 
 
@@ -660,7 +665,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 \openout2 = `"chapters/Previous infrastructure, research and preparation.aux"'.
 
 
-(chapters/Previous infrastructure, research and preparation.tex) [7
+(chapters/Previous infrastructure, research and preparation.tex) [9
 
 
 
@@ -668,7 +673,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 \openout2 = `"chapters/New Infrastructure Requirements.aux"'.
 
 
-(chapters/New Infrastructure Requirements.tex) [8
+(chapters/New Infrastructure Requirements.tex) [10
 
 
 
@@ -676,7 +681,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 \openout2 = `"chapters/Designing of the New Infrastructure.aux"'.
 
 
-(chapters/Designing of the New Infrastructure.tex) [9
+(chapters/Designing of the New Infrastructure.tex) [11
 
 
 
@@ -684,14 +689,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 \openout2 = `"abstract/Glossary of Terms.aux"'.
 
 
-(abstract/Glossary of Terms.tex) [10
+(abstract/Glossary of Terms.tex) [12
 
 
 
 ]
 \openout2 = `abstract/Bibliography.aux'.
 
- (abstract/Bibliography.tex) [11
+ (abstract/Bibliography.tex) [13
 
 
 
@@ -712,13 +717,13 @@ LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
 Package rerunfilecheck Info: File `"Masters Thesis".out' has not changed.
-(rerunfilecheck)             Checksum: 5ED544F668E5F391E2A3CD68BC668454;116.
+(rerunfilecheck)             Checksum: 5ECC4369167B4E6273C4A9116EB24123;116.
  ) 
 Here is how much of TeX's memory you used:
- 11778 strings out of 474494
- 193102 string characters out of 5753731
+ 11789 strings out of 474494
+ 193335 string characters out of 5753731
  1930460 words of memory out of 5000000
- 33828 multiletter control sequences out of 15000+600000
+ 33833 multiletter control sequences out of 15000+600000
  571814 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,1211b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -731,9 +736,9 @@ i600\labx1200.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
 /dpi600\labx2488.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
 t2a/dpi600\labx1440.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
 lh-t2a/dpi600\labx2074.pk>
-Output written on "Masters Thesis.pdf" (11 pages, 2906224 bytes).
+Output written on "Masters Thesis.pdf" (13 pages, 2911141 bytes).
 PDF statistics:
- 346 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
+ 367 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
  24 words of extra memory for PDF output out of 10000 (max. 10000000)
 
