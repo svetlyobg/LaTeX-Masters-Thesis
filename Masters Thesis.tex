@@ -4,7 +4,7 @@
 % Author: Svetlozar Kosev
 % Last modified: 24 June 2023
 %%%%%%%%%%%%%%%
-\documentclass[11pt, a4paper]{article}
+\documentclass[11pt, a4paper]{report}
 %\documentclass[11pt,a4paper,twoside]{article}
 
 \usepackage[T2A]{fontenc}
@@ -12,7 +12,7 @@
 \usepackage[bulgarian, english]{babel}
 %\setmainfont{Times New Roman}
 
-\renewcommand{\listoffigures}{Списък на фигури}
+%\renewcommand{\listoffigures}{Списък на фигури}
 
 
 \setcounter{tocdepth}{4} %sections + subsections in the TOC
@@ -24,7 +24,6 @@
 	\renewcommand*{\appendixname}{Приложение} 
 	}
 	
-%\renewcommand{\listfigurename}{Списък на фигури}
 
 %Put here the other needed macro packages.
 \usepackage{graphicx} %for the raster graphics
@@ -79,10 +78,14 @@ includeheadfoot
 	\clearpage	
 	\tableofcontents
 	\newpage
+	
+	\clearpage
 	\listoffigures
-		\newpage
-		\listoftables
-			\newpage
+	\newpage
+	
+	\clearpage
+	\listoftables
+	\newpage
 	
 	% Hence we utilize the article document class and 'Section' higher level partitioning,
 	% rather than 'report'/'Chapter', \input is more suitable than \include.
