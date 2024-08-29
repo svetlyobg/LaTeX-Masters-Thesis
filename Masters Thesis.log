@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.26)  29 AUG 2024 22:22
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.8.29)  29 AUG 2024 22:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -11,250 +11,61 @@ Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count187
-\c@chapter=\count188
-\c@section=\count189
-\c@subsection=\count190
-\c@subsubsection=\count191
-\c@paragraph=\count192
-\c@subparagraph=\count193
-\c@figure=\count194
-\c@table=\count195
+\c@part=\count183
+\c@chapter=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\c@figure=\count190
+\c@table=\count191
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
 (C:\Users\Rumi\AppData\Roaming\MiKTeX\tex/latex/cmap\cmap.sty
 Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
-)
-(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+
+
+Package cmap Warning: pdftex not detected - exiting.
+
+) (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 
 (C:\Users\Rumi\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2aenc.def
 File: t2aenc.def 2022/06/11 v1.0j Cyrillic encoding definition file
-Now handling font encoding T2A ...
-... processing UTF-8 mapping file for font encoding T2A
-
-(C:\Program Files\MiKTeX\tex/latex/base\t2aenc.dfu
-File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
-   defining Unicode char U+00A4 (decimal 164)
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00BB (decimal 187)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0237 (decimal 567)
-   defining Unicode char U+0400 (decimal 1024)
-   defining Unicode char U+0401 (decimal 1025)
-   defining Unicode char U+0402 (decimal 1026)
-   defining Unicode char U+0403 (decimal 1027)
-   defining Unicode char U+0404 (decimal 1028)
-   defining Unicode char U+0405 (decimal 1029)
-   defining Unicode char U+0406 (decimal 1030)
-   defining Unicode char U+0407 (decimal 1031)
-   defining Unicode char U+0408 (decimal 1032)
-   defining Unicode char U+0409 (decimal 1033)
-   defining Unicode char U+040A (decimal 1034)
-   defining Unicode char U+040B (decimal 1035)
-   defining Unicode char U+040C (decimal 1036)
-   defining Unicode char U+040D (decimal 1037)
-   defining Unicode char U+040E (decimal 1038)
-   defining Unicode char U+040F (decimal 1039)
-   defining Unicode char U+0410 (decimal 1040)
-   defining Unicode char U+0411 (decimal 1041)
-   defining Unicode char U+0412 (decimal 1042)
-   defining Unicode char U+0413 (decimal 1043)
-   defining Unicode char U+0414 (decimal 1044)
-   defining Unicode char U+0415 (decimal 1045)
-   defining Unicode char U+0416 (decimal 1046)
-   defining Unicode char U+0417 (decimal 1047)
-   defining Unicode char U+0418 (decimal 1048)
-   defining Unicode char U+0419 (decimal 1049)
-   defining Unicode char U+041A (decimal 1050)
-   defining Unicode char U+041B (decimal 1051)
-   defining Unicode char U+041C (decimal 1052)
-   defining Unicode char U+041D (decimal 1053)
-   defining Unicode char U+041E (decimal 1054)
-   defining Unicode char U+041F (decimal 1055)
-   defining Unicode char U+0420 (decimal 1056)
-   defining Unicode char U+0421 (decimal 1057)
-   defining Unicode char U+0422 (decimal 1058)
-   defining Unicode char U+0423 (decimal 1059)
-   defining Unicode char U+0424 (decimal 1060)
-   defining Unicode char U+0425 (decimal 1061)
-   defining Unicode char U+0426 (decimal 1062)
-   defining Unicode char U+0427 (decimal 1063)
-   defining Unicode char U+0428 (decimal 1064)
-   defining Unicode char U+0429 (decimal 1065)
-   defining Unicode char U+042A (decimal 1066)
-   defining Unicode char U+042B (decimal 1067)
-   defining Unicode char U+042C (decimal 1068)
-   defining Unicode char U+042D (decimal 1069)
-   defining Unicode char U+042E (decimal 1070)
-   defining Unicode char U+042F (decimal 1071)
-   defining Unicode char U+0430 (decimal 1072)
-   defining Unicode char U+0431 (decimal 1073)
-   defining Unicode char U+0432 (decimal 1074)
-   defining Unicode char U+0433 (decimal 1075)
-   defining Unicode char U+0434 (decimal 1076)
-   defining Unicode char U+0435 (decimal 1077)
-   defining Unicode char U+0436 (decimal 1078)
-   defining Unicode char U+0437 (decimal 1079)
-   defining Unicode char U+0438 (decimal 1080)
-   defining Unicode char U+0439 (decimal 1081)
-   defining Unicode char U+043A (decimal 1082)
-   defining Unicode char U+043B (decimal 1083)
-   defining Unicode char U+043C (decimal 1084)
-   defining Unicode char U+043D (decimal 1085)
-   defining Unicode char U+043E (decimal 1086)
-   defining Unicode char U+043F (decimal 1087)
-   defining Unicode char U+0440 (decimal 1088)
-   defining Unicode char U+0441 (decimal 1089)
-   defining Unicode char U+0442 (decimal 1090)
-   defining Unicode char U+0443 (decimal 1091)
-   defining Unicode char U+0444 (decimal 1092)
-   defining Unicode char U+0445 (decimal 1093)
-   defining Unicode char U+0446 (decimal 1094)
-   defining Unicode char U+0447 (decimal 1095)
-   defining Unicode char U+0448 (decimal 1096)
-   defining Unicode char U+0449 (decimal 1097)
-   defining Unicode char U+044A (decimal 1098)
-   defining Unicode char U+044B (decimal 1099)
-   defining Unicode char U+044C (decimal 1100)
-   defining Unicode char U+044D (decimal 1101)
-   defining Unicode char U+044E (decimal 1102)
-   defining Unicode char U+044F (decimal 1103)
-   defining Unicode char U+0450 (decimal 1104)
-   defining Unicode char U+0451 (decimal 1105)
-   defining Unicode char U+0452 (decimal 1106)
-   defining Unicode char U+0453 (decimal 1107)
-   defining Unicode char U+0454 (decimal 1108)
-   defining Unicode char U+0455 (decimal 1109)
-   defining Unicode char U+0456 (decimal 1110)
-   defining Unicode char U+0457 (decimal 1111)
-   defining Unicode char U+0458 (decimal 1112)
-   defining Unicode char U+0459 (decimal 1113)
-   defining Unicode char U+045A (decimal 1114)
-   defining Unicode char U+045B (decimal 1115)
-   defining Unicode char U+045C (decimal 1116)
-   defining Unicode char U+045D (decimal 1117)
-   defining Unicode char U+045E (decimal 1118)
-   defining Unicode char U+045F (decimal 1119)
-   defining Unicode char U+0490 (decimal 1168)
-   defining Unicode char U+0491 (decimal 1169)
-   defining Unicode char U+0492 (decimal 1170)
-   defining Unicode char U+0493 (decimal 1171)
-   defining Unicode char U+0496 (decimal 1174)
-   defining Unicode char U+0497 (decimal 1175)
-   defining Unicode char U+0498 (decimal 1176)
-   defining Unicode char U+0499 (decimal 1177)
-   defining Unicode char U+049A (decimal 1178)
-   defining Unicode char U+049B (decimal 1179)
-   defining Unicode char U+049C (decimal 1180)
-   defining Unicode char U+049D (decimal 1181)
-   defining Unicode char U+04A0 (decimal 1184)
-   defining Unicode char U+04A1 (decimal 1185)
-   defining Unicode char U+04A2 (decimal 1186)
-   defining Unicode char U+04A3 (decimal 1187)
-   defining Unicode char U+04A4 (decimal 1188)
-   defining Unicode char U+04A5 (decimal 1189)
-   defining Unicode char U+04AA (decimal 1194)
-   defining Unicode char U+04AB (decimal 1195)
-   defining Unicode char U+04AE (decimal 1198)
-   defining Unicode char U+04AF (decimal 1199)
-   defining Unicode char U+04B0 (decimal 1200)
-   defining Unicode char U+04B1 (decimal 1201)
-   defining Unicode char U+04B2 (decimal 1202)
-   defining Unicode char U+04B3 (decimal 1203)
-   defining Unicode char U+04B6 (decimal 1206)
-   defining Unicode char U+04B7 (decimal 1207)
-   defining Unicode char U+04B8 (decimal 1208)
-   defining Unicode char U+04B9 (decimal 1209)
-   defining Unicode char U+04BA (decimal 1210)
-   defining Unicode char U+04BB (decimal 1211)
-   defining Unicode char U+04C0 (decimal 1216)
-   defining Unicode char U+04C1 (decimal 1217)
-   defining Unicode char U+04C2 (decimal 1218)
-   defining Unicode char U+04D0 (decimal 1232)
-   defining Unicode char U+04D1 (decimal 1233)
-   defining Unicode char U+04D2 (decimal 1234)
-   defining Unicode char U+04D3 (decimal 1235)
-   defining Unicode char U+04D4 (decimal 1236)
-   defining Unicode char U+04D5 (decimal 1237)
-   defining Unicode char U+04D6 (decimal 1238)
-   defining Unicode char U+04D7 (decimal 1239)
-   defining Unicode char U+04D8 (decimal 1240)
-   defining Unicode char U+04D9 (decimal 1241)
-   defining Unicode char U+04DA (decimal 1242)
-   defining Unicode char U+04DB (decimal 1243)
-   defining Unicode char U+04DC (decimal 1244)
-   defining Unicode char U+04DD (decimal 1245)
-   defining Unicode char U+04DE (decimal 1246)
-   defining Unicode char U+04DF (decimal 1247)
-   defining Unicode char U+04E2 (decimal 1250)
-   defining Unicode char U+04E3 (decimal 1251)
-   defining Unicode char U+04E4 (decimal 1252)
-   defining Unicode char U+04E5 (decimal 1253)
-   defining Unicode char U+04E6 (decimal 1254)
-   defining Unicode char U+04E7 (decimal 1255)
-   defining Unicode char U+04E8 (decimal 1256)
-   defining Unicode char U+04E9 (decimal 1257)
-   defining Unicode char U+04EC (decimal 1260)
-   defining Unicode char U+04ED (decimal 1261)
-   defining Unicode char U+04EE (decimal 1262)
-   defining Unicode char U+04EF (decimal 1263)
-   defining Unicode char U+04F0 (decimal 1264)
-   defining Unicode char U+04F1 (decimal 1265)
-   defining Unicode char U+04F2 (decimal 1266)
-   defining Unicode char U+04F3 (decimal 1267)
-   defining Unicode char U+04F4 (decimal 1268)
-   defining Unicode char U+04F5 (decimal 1269)
-   defining Unicode char U+04F8 (decimal 1272)
-   defining Unicode char U+04F9 (decimal 1273)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-   defining Unicode char U+201E (decimal 8222)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+2116 (decimal 8470)
-   defining Unicode char U+2329 (decimal 9001)
-   defining Unicode char U+3008 (decimal 12296)
-   defining Unicode char U+232A (decimal 9002)
-   defining Unicode char U+3009 (decimal 12297)
-   defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+27E8 (decimal 10216)
-   defining Unicode char U+27E9 (decimal 10217)
-   defining Unicode char U+FB00 (decimal 64256)
-   defining Unicode char U+FB01 (decimal 64257)
-   defining Unicode char U+FB02 (decimal 64258)
-   defining Unicode char U+FB03 (decimal 64259)
-   defining Unicode char U+FB04 (decimal 64260)
-   defining Unicode char U+FB05 (decimal 64261)
-   defining Unicode char U+FB06 (decimal 64262)
-))
+)
+LaTeX Font Info:    Trying to load font information for T2A+lmr on input line 1
+12.
+LaTeX Font Info:    No file T2Almr.fd. on input line 112.
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 12.
 
 (C:\Users\Rumi\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)<<t2a.cmap>>) (C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+)
+
+LaTeX Font Warning: Font shape `T2A/lmr/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 112.
+
+) (C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-)
-(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2024/01/07 v24.1 The Babel package
-\babel@savecnt=\count196
+\babel@savecnt=\count192
 \U@D=\dimen141
 \l@unhyphenated=\language79
 
-(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+(C:\Program Files\MiKTeX\tex/generic/babel\xebabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count197
+\bbl@dirlevel=\count193
 
 *************************************
 * Local config file bblopts.cfg used
@@ -267,13 +78,17 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 Language: bulgarian 2013/10/14 v1.2g Bulgarian support from the babel system
 Package babel Info: Using `T2A' as a default Cyrillic encoding on input line 89
 .
+
+
+Package bulgarian.ldf Warning: inputenc should not be used with LuaTeX or XeTeX
+ on input line 140.
+
 Package bulgarian.ldf Info: Executing the post 3.9 branch for captions on input
  line 197.
 Package bulgarian.ldf Info: Executing the post 3.9 branch for dates on input li
 ne 302.
 Package babel Info: Making " an active character on input line 344.
-)
-(C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
+) (C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -290,6 +105,78 @@ Package babel Info: Importing font and identification data for english
 Package babel Info: Importing font and identification data for bulgarian
 (babel)             from babel-bg.ini. Reported on input line 11.
 )
+(C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-01-04 L3 programming layer (loader) 
+
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
+File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
+\g__graphics_track_int=\count194
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count195
+\g__pdf_backend_annotation_int=\count196
+\g__pdf_backend_link_int=\count197
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count198
+\l__fontspec_language_int=\count199
+\l__fontspec_strnum_int=\count266
+\l__fontspec_tmp_int=\count267
+\l__fontspec_tmpa_int=\count268
+\l__fontspec_tmpb_int=\count269
+\l__fontspec_tmpc_int=\count270
+\l__fontspec_em_int=\count271
+\l__fontspec_emdef_int=\count272
+\l__fontspec_strong_int=\count273
+\l__fontspec_strongdef_int=\count274
+\l__fontspec_tmpa_dim=\dimen142
+\l__fontspec_tmpb_dim=\dimen143
+\l__fontspec_tmpc_dim=\dimen144
+
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
 (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -306,13 +193,13 @@ Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
+Package graphics Info: Driver file: xetex.def on input line 107.
 
-(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen142
-\Gin@req@width=\dimen143
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
 )
 (C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
@@ -342,7 +229,7 @@ Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode not found.
 ))
 (C:\Users\Rumi\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
@@ -365,29 +252,25 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (C:\Users\Rumi\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count198
+\c@section@level=\count275
 ) (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count199
+\etb@tempcnta=\count276
 )
-\@linkdim=\dimen144
-\Hy@linkcounter=\count266
-\Hy@pagecounter=\count267
+\@linkdim=\dimen147
+\Hy@linkcounter=\count277
+\Hy@pagecounter=\count278
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
 )
 (C:\Users\Rumi\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count268
+\Hy@SavedSpaceFactor=\count279
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Hyper figures OFF on input line 4181.
 Package hyperref Info: Link nesting OFF on input line 4186.
@@ -396,14 +279,14 @@ Package hyperref Info: Plain pages OFF on input line 4196.
 Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4448.
-\c@Hy@tempcnt=\count269
+\c@Hy@tempcnt=\count280
 
 (C:\Program Files\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4786.
-\XeTeXLinkMargin=\dimen145
+\XeTeXLinkMargin=\dimen148
 
 (C:\Users\Rumi\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -412,9 +295,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count270
-\Field@Width=\dimen146
-\Fld@charsize=\dimen147
+\Fld@menulength=\count281
+\Field@Width=\dimen149
+\Fld@charsize=\dimen150
 Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
@@ -427,27 +310,33 @@ Package hyperref Info: PDF/A mode OFF on input line 6095.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count271
-\c@Item=\count272
-\c@Hfootnote=\count273
+\Hy@abspage=\count282
+\c@Item=\count283
+\c@Hfootnote=\count284
 )
-Package hyperref Info: Driver (autodetected): hpdftex.
+Package hyperref Info: Driver (autodetected): hxetex.
 
-(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2023-11-26 v7.01g Hyperref driver for XeTeX
 
-(C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
-with kernel methods
+(C:\Users\Rumi\AppData\Roaming\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
-\Fld@listcount=\count274
-\c@bookmark@seq@number=\count275
+)
+\pdfm@box=\box52
+\c@Hy@AnnotLevel=\count285
+\HyField@AnnotCount=\count286
+\Fld@listcount=\count287
+\c@bookmark@seq@number=\count288
 
 (C:\Users\Rumi\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.s
 ty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-
+ (C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
 (C:\Users\Rumi\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.s
 ty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
@@ -480,26 +369,21 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count276
-\Gm@cntv=\count277
-\c@Gm@tempcnt=\count278
-\Gm@bindingoffset=\dimen148
-\Gm@wd@mp=\dimen149
-\Gm@odd@mp=\dimen150
-\Gm@even@mp=\dimen151
-\Gm@layoutwidth=\dimen152
-\Gm@layoutheight=\dimen153
-\Gm@layouthoffset=\dimen154
-\Gm@layoutvoffset=\dimen155
+\Gm@cnth=\count289
+\Gm@cntv=\count290
+\c@Gm@tempcnt=\count291
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
 \Gm@dimlist=\toks20
 
 (C:\Users\Rumi\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count279
-\l__pdf_internal_box=\box51
-)
-(Masters Thesis.aux (chapters/Thesis Title Page.aux) (abstract/Introduction.aux
+(Masters Thesis.aux (chapters/Thesis Title Page.aux) (chapters/Introduction.aux
 ) (chapters/Virtual machines.aux)
 (chapters/Previous infrastructure, research and preparation.aux)
 (chapters/New Infrastructure Requirements.aux)
@@ -508,59 +392,112 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 (abstract/Acknowledgments.aux))
 \openout1 = `"Masters Thesis.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+1.
 
-(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen156
-\scratchbox=\box52
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen157
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks22
-) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
+(C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
 
-(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
-Package hyperref Info: Link coloring OFF on input line 77.
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
 
-(Masters Thesis.out) (Masters Thesis.out)
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 81.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 81.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 81.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 81.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 81.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 81.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 81.
+LaTeX Font Info:    Redeclaring math accent \check on input line 81.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 81.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 81.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 81.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 81.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 81.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 8
+1.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 81.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+81.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 81.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 81.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+81.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 81.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 81.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 81.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 81.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 81.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 81.
+Package hyperref Info: Link coloring OFF on input line 81.
+ (Masters Thesis.out)
+(Masters Thesis.out)
 \@outlinefile=\write3
 \openout3 = `"Masters Thesis.out"'.
 
 
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: xetex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -593,14 +530,14 @@ Package hyperref Info: Link coloring OFF on input line 77.
 
 \openout2 = `"chapters/Thesis Title Page.aux"'.
 
-(chapters/Thesis Title Page.tex<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
+(chapters/Thesis Title Page.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 18.
-<<omx.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 18.
+
 
 LaTeX Warning: No \author given.
 
@@ -608,27 +545,16 @@ LaTeX Warning: No \author given.
 
 
 ]
-<images/logo.jpg, id=17, 180.675pt x 180.675pt>
-File: images/logo.jpg Graphic file (type jpg)
-<use images/logo.jpg>
-Package pdftex.def Info: images/logo.jpg  used on input line 20.
-(pdftex.def)             Requested size: 85.35826pt x 85.35835pt.
-)
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.79 	\include{chapters/Thesis Title Page}
-                                          	 [1{C:/Users/Rumi/AppData/Local/MiKT
-eX/fonts/map/pdftex/pdftex.map} <./images/logo.jpg>] (Masters Thesis.toc
+File: images/logo.jpg Graphic file (type bmp)
+<images/logo.jpg>
+) [1] (Masters Thesis.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
 )
 \tf@toc=\write4
 \openout4 = `"Masters Thesis.toc"'.
 
-
-[1
+ [1
 
 
 
@@ -637,119 +563,115 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@lof=\write5
 \openout5 = `"Masters Thesis.lof"'.
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.89 	\newpage
-               [1
+ [1
 
 
 ] (Masters Thesis.lot)
 \tf@lot=\write6
 \openout6 = `"Masters Thesis.lot"'.
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.94 	\newpage
-               [1
+[1
 
 
 ]
-\openout2 = `abstract/Introduction.aux'.
+\openout2 = `chapters/Introduction.aux'.
 
- (abstract/Introduction.tex
-<images/1-1-1Център за данни.png, id=44, 427.707pt x 285.138pt>
-File: images/1-1-1Център за данни.png Graphic file (type png)
-<use images/1-1-1Център за данни.png>
-Package pdftex.def Info: images/1-1-1Център за данни.png  used on 
-input line 22.
-(pdftex.def)             Requested size: 364.19667pt x 242.80788pt.
-
-Overfull \hbox (10.06705pt too wide) in paragraph at lines 28--29
-[]\T2A/cmr/m/n/10.95 � ������� ������-������, ���������� �������� ������� � ���
-������ ������ �� ���������
+ (chapters/Introduction.tex
+Overfull \hbox (1.1635pt too wide) in paragraph at lines 22--23
+\TU/TimesNewRoman(0)/m/n/10.95 Сървърът е софтуер/операционна система на устрой
+ство, което осигурява услуга на друга програма
  []
 
-<images/hypervisor2.png, id=46, 525.162pt x 417.2388pt>
-File: images/hypervisor2.png Graphic file (type png)
-<use images/hypervisor2.png>
-Package pdftex.def Info: images/hypervisor2.png  used on input line 34.
-(pdftex.def)             Requested size: 364.19667pt x 289.35301pt.
+File: images/1-1-1Център за данни.png Graphic file (type bmp)
+<images/1-1-1Център за данни.png>
+
+Overfull \hbox (19.44044pt too wide) in paragraph at lines 32--33
+[]\TU/TimesNewRoman(0)/m/n/10.95 В моделът клиент-сървър, сървърната програма и
+зчаква и изпълнява заявки от клиентски програми,
+ []
+
+
+Overfull \hbox (0.15764pt too wide) in paragraph at lines 34--35
+[]\TU/TimesNewRoman(0)/m/n/10.95 Сървърите могат да бъдат както обикновени комп
+ютри, така и реално физически или виртуални
+ []
+
+
+Overfull \hbox (9.68039pt too wide) in paragraph at lines 34--35
+\TU/TimesNewRoman(0)/m/n/10.95 виртуализация са VirtualBox, VMware Player, KVM,
+ vSphere, QEMU. Изискванията за конфигуриране
+ []
+
+File: images/hypervisor2.png Graphic file (type bmp)
+<images/hypervisor2.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.100 	\include{abstract/Introduction.tex}
-                                           [2
+) [1
 
 
- <./images/1-1-1Център за данни.png>]
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.100 	\include{abstract/Introduction.tex}
-                                           [3 <./images/hypervisor2.png>]
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.105 	\newpage
-                [1
-
-
-]
+] [2]
 \openout2 = `"chapters/Virtual machines.aux"'.
 
- (chapters/Virtual machines.tex) [2
+ (chapters/Virtual machines.tex
+ГЛАВА 1.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 5.
+
+) [3
+
 
 
 
 ]
 \openout2 = `"chapters/Previous infrastructure, research and preparation.aux"'.
 
+ (chapters/Previous infrastructure, research and preparation.tex
+ГЛАВА 2.
 
-(chapters/Previous infrastructure, research and preparation.tex) [3
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 7.
+
+) [4
+
 
 
 
 ]
 \openout2 = `"chapters/New Infrastructure Requirements.aux"'.
 
+ (chapters/New Infrastructure Requirements.tex
+ГЛАВА 3.
+) [5
 
-(chapters/New Infrastructure Requirements.tex) [4
 
 
 
 ]
 \openout2 = `"chapters/Designing of the New Infrastructure.aux"'.
 
+ (chapters/Designing of the New Infrastructure.tex
+ГЛАВА 4.
+) [6
 
-(chapters/Designing of the New Infrastructure.tex) [5
 
 
 
 ]
 \openout2 = `"abstract/Glossary of Terms.aux"'.
 
+ (abstract/Glossary of Terms.tex) [7
 
-(abstract/Glossary of Terms.tex) [6
 
 
 
 ]
 \openout2 = `abstract/Bibliography.aux'.
 
- (abstract/Bibliography.tex) [7
+ (abstract/Bibliography.tex) [8
+
+
 
 
 
@@ -758,7 +680,7 @@ l.105 	\newpage
 
 
 (abstract/Acknowledgments.tex) (Masters Thesis.aux
-(chapters/Thesis Title Page.aux) (abstract/Introduction.aux)
+(chapters/Thesis Title Page.aux) (chapters/Introduction.aux)
 (chapters/Virtual machines.aux)
 (chapters/Previous infrastructure, research and preparation.aux)
 (chapters/New Infrastructure Requirements.aux)
@@ -769,28 +691,20 @@ l.105 	\newpage
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `"Masters Thesis".out' has not changed.
-(rerunfilecheck)             Checksum: 0A49C568FA16A70F6E83BDB7948D14B9;116.
+(rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 11887 strings out of 474484
- 195148 string characters out of 5753527
- 1929542 words of memory out of 5000000
- 33911 multiletter control sequences out of 15000+600000
- 571604 words of font info for 60 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 75i,6n,79p,1211b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labi109
-5.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
-1095.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
-arm1440.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\labx1200.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
-i600\labx2488.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\labx1440.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
-t2a/dpi600\labx2074.pk>
-Output written on "Masters Thesis.pdf" (14 pages, 2915015 bytes).
-PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 44 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13679 strings out of 409615
+ 271906 string characters out of 5778230
+ 1924191 words of memory out of 5000000
+ 35540 multiletter control sequences out of 15000+600000
+ 563105 words of font info for 77 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 79i,6n,93p,760b,359s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+Output written on Masters Thesis.pdf (13 pages).

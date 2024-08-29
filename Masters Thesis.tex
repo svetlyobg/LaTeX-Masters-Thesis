@@ -11,7 +11,10 @@
 \usepackage[T1,T2A]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[bulgarian, english]{babel}
-%\setmainfont{Times New Roman}
+\usepackage{fontspec}
+
+% Set the main font to Times New Roman
+\setmainfont{Times New Roman}
 
 %\renewcommand{\listoffigures}{Списък на фигури}
 
@@ -25,6 +28,7 @@
 	\renewcommand*{\tablename}{Таблица} 
 	\renewcommand*{\refname}{Библиография} 
 	\renewcommand*{\appendixname}{Приложение} 
+	\renewcommand{\chaptername}{ГЛАВА}
 	}
 	
 
@@ -97,35 +101,32 @@ includeheadfoot
 	% rather than 'report'/'Chapter', \input is more suitable than \include.
 	%	\clearpage
 	%	\thispagestyle{empty}
-	\include{abstract/Introduction.tex}
-	{Въведение}\label{Introduction}
+	\include{chapters/Introduction.tex}
+	%\addcontentsline{toc}{chapter}{Въведение}
 	%\input{abstract}
-	\pagenumbering{arabic}
-	\setcounter{page}{1}
+		
 	\newpage
 	
 	\include{chapters/Virtual machines.tex}
-	{Виртуални машини}\label{Sect1}
+	%{Виртуални машини}\label{Sect1}
 	%\input{Section1}
 	\newpage
 	
 	\include{chapters/Previous infrastructure, research and preparation.tex}
-	{Предишна инфраструктура, изследване и подготовка}\label{Sect2}
-	%\input{Section2}
+		%\input{Section2}
 	\newpage
 	
 	\include{chapters/New Infrastructure Requirements.tex}
-	{Изисквания за нова инфраструктура}\label{Sect3}
+	
 	%\input{Section3}
 	\newpage
 	
 	\include{chapters/Designing of the New Infrastructure.tex}
-	{Проектиране на нова инфраструктура}\label{Sect4}
-	%\input{Section4}
+		%\input{Section4}
 	\newpage
 	
 	\include{abstract/Glossary of Terms.tex}
-	{Речник на термини}\label{Sect5}
+	
 	%\input{Section5}
 	\newpage
 	
