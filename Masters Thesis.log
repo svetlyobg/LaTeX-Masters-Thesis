@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.26)  29 AUG 2024 22:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.26)  29 AUG 2024 22:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -508,26 +508,26 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 (abstract/Acknowledgments.aux))
 \openout1 = `"Masters Thesis.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -550,7 +550,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 75.
+Package hyperref Info: Link coloring OFF on input line 77.
 
 (Masters Thesis.out) (Masters Thesis.out)
 \@outlinefile=\write3
@@ -618,7 +618,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.77 	\include{chapters/Thesis Title Page}
+l.79 	\include{chapters/Thesis Title Page}
                                           	 [1{C:/Users/Rumi/AppData/Local/MiKT
 eX/fonts/map/pdftex/pdftex.map} <./images/logo.jpg>] (Masters Thesis.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -642,7 +642,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.87 	\newpage
+l.89 	\newpage
                [1
 
 
@@ -655,7 +655,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.92 	\newpage
+l.94 	\newpage
                [1
 
 
@@ -688,8 +688,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.98 	\include{abstract/Introduction.tex}
-                                          [2
+l.100 	\include{abstract/Introduction.tex}
+                                           [2
 
 
  <./images/1-1-1Център за данни.png>]
@@ -697,26 +697,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.98 	\include{abstract/Introduction.tex}
-                                          [3 <./images/hypervisor2.png>]
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
+l.100 	\include{abstract/Introduction.tex}
+                                           [3 <./images/hypervisor2.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.101 	\newpage
-                [4
+l.105 	\newpage
+                [1
 
 
 ]
 \openout2 = `"chapters/Virtual machines.aux"'.
 
- (chapters/Virtual machines.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.106 	\newpage
-                [5
+ (chapters/Virtual machines.tex) [2
 
 
 
@@ -724,72 +718,46 @@ l.106 	\newpage
 \openout2 = `"chapters/Previous infrastructure, research and preparation.aux"'.
 
 
-(chapters/Previous infrastructure, research and preparation.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.111 	\newpage
-                [6
+(chapters/Previous infrastructure, research and preparation.tex) [3
 
 
 
 ]
 \openout2 = `"chapters/New Infrastructure Requirements.aux"'.
 
- (chapters/New Infrastructure Requirements.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.116 	\newpage
-                [7
+
+(chapters/New Infrastructure Requirements.tex) [4
 
 
 
 ]
 \openout2 = `"chapters/Designing of the New Infrastructure.aux"'.
 
- (chapters/Designing of the New Infrastructure.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.121 	\newpage
-                [8
+
+(chapters/Designing of the New Infrastructure.tex) [5
 
 
 
 ]
 \openout2 = `"abstract/Glossary of Terms.aux"'.
 
- (abstract/Glossary of Terms.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.126 	\newpage
-                [9
+
+(abstract/Glossary of Terms.tex) [6
 
 
 
 ]
 \openout2 = `abstract/Bibliography.aux'.
 
- (abstract/Bibliography.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.131 	\newpage
-                [10
+ (abstract/Bibliography.tex) [7
 
 
 
 ]
 \openout2 = `abstract/Acknowledgments.aux'.
 
- (abstract/Acknowledgments.tex) (Masters Thesis.aux
+
+(abstract/Acknowledgments.tex) (Masters Thesis.aux
 (chapters/Thesis Title Page.aux) (abstract/Introduction.aux)
 (chapters/Virtual machines.aux)
 (chapters/Previous infrastructure, research and preparation.aux)
@@ -805,8 +773,8 @@ Package rerunfilecheck Info: File `"Masters Thesis".out' has not changed.
 (rerunfilecheck)             Checksum: 0A49C568FA16A70F6E83BDB7948D14B9;116.
  ) 
 Here is how much of TeX's memory you used:
- 11881 strings out of 474484
- 195112 string characters out of 5753527
+ 11887 strings out of 474484
+ 195148 string characters out of 5753527
  1929542 words of memory out of 5000000
  33911 multiletter control sequences out of 15000+600000
  571604 words of font info for 60 fonts, out of 8000000 for 9000
@@ -820,9 +788,9 @@ arm1440.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
 i600\labx2488.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
 /dpi600\labx1440.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
 t2a/dpi600\labx2074.pk>
-Output written on "Masters Thesis.pdf" (14 pages, 2918065 bytes).
+Output written on "Masters Thesis.pdf" (14 pages, 2915015 bytes).
 PDF statistics:
- 363 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
+ 361 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
  44 words of extra memory for PDF output out of 10000 (max. 10000000)
 

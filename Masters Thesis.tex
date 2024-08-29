@@ -19,6 +19,8 @@
 \setcounter{tocdepth}{4} %sections + subsections in the TOC
 \addto{\captionsenglish}{ 
 	\renewcommand*{\contentsname}{Съдържание} 
+	\renewcommand*{\listfigurename}{Списък с фигури}
+	\renewcommand*{\listtablename}{Списък с таблици}
 	\renewcommand*{\figurename}{Фигура} 
 	\renewcommand*{\tablename}{Таблица} 
 	\renewcommand*{\refname}{Библиография} 
@@ -98,6 +100,8 @@ includeheadfoot
 	\include{abstract/Introduction.tex}
 	{Въведение}\label{Introduction}
 	%\input{abstract}
+	\pagenumbering{arabic}
+	\setcounter{page}{1}
 	\newpage
 	
 	\include{chapters/Virtual machines.tex}
