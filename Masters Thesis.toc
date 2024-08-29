@@ -1,2 +1,2 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{Въведение}{5}{chapter*.3}%
+\contentsline {section}{Въведение}{}{chapter*.3}%

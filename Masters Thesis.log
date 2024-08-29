@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.24)  7 JAN 2024 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.26)  29 AUG 2024 22:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **"./Masters Thesis.tex"
 (Masters Thesis.tex
-LaTeX2e <2023-11-01>
-L3 programming layer <2023-12-11>
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
 (C:\Program Files\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\size11.clo
@@ -247,7 +247,7 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@posthook=\toks18
 )
 (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/12/10 v3.99 The Babel package
+Package: babel 2024/01/07 v24.1 The Babel package
 \babel@savecnt=\count196
 \U@D=\dimen141
 \l@unhyphenated=\language79
@@ -495,7 +495,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (C:\Users\Rumi\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box51
 )
@@ -628,7 +628,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout4 = `"Masters Thesis.toc"'.
 
 
-[2
+[1
 
 
 
@@ -637,22 +637,33 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@lof=\write5
 \openout5 = `"Masters Thesis.lof"'.
 
- [3
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.87 	\newpage
+               [1
 
 
 ] (Masters Thesis.lot)
 \tf@lot=\write6
 \openout6 = `"Masters Thesis.lot"'.
 
- [4
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.92 	\newpage
+               [1
 
 
 ]
 \openout2 = `abstract/Introduction.aux'.
 
-
-(abstract/Introduction.tex
-<images/1-1-1Център за данни.png, id=46, 427.707pt x 285.138pt>
+ (abstract/Introduction.tex
+<images/1-1-1Център за данни.png, id=44, 427.707pt x 285.138pt>
 File: images/1-1-1Център за данни.png Graphic file (type png)
 <use images/1-1-1Център за данни.png>
 Package pdftex.def Info: images/1-1-1Център за данни.png  used on 
@@ -664,7 +675,7 @@ Overfull \hbox (10.06705pt too wide) in paragraph at lines 28--29
 ������ ������ �� ���������
  []
 
-<images/hypervisor2.png, id=48, 525.162pt x 417.2388pt>
+<images/hypervisor2.png, id=46, 525.162pt x 417.2388pt>
 File: images/hypervisor2.png Graphic file (type png)
 <use images/hypervisor2.png>
 Package pdftex.def Info: images/hypervisor2.png  used on input line 34.
@@ -672,17 +683,40 @@ Package pdftex.def Info: images/hypervisor2.png  used on input line 34.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [5
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.98 	\include{abstract/Introduction.tex}
+                                          [2
 
 
- <./images/1-1-1Център за данни.png>] [6 <./images/hypervisor2.png
->] [7
+ <./images/1-1-1Център за данни.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.98 	\include{abstract/Introduction.tex}
+                                          [3 <./images/hypervisor2.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.101 	\newpage
+                [4
 
 
 ]
 \openout2 = `"chapters/Virtual machines.aux"'.
 
- (chapters/Virtual machines.tex) [8
+ (chapters/Virtual machines.tex)
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.106 	\newpage
+                [5
 
 
 
@@ -690,46 +724,72 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 \openout2 = `"chapters/Previous infrastructure, research and preparation.aux"'.
 
 
-(chapters/Previous infrastructure, research and preparation.tex) [9
+(chapters/Previous infrastructure, research and preparation.tex)
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.111 	\newpage
+                [6
 
 
 
 ]
 \openout2 = `"chapters/New Infrastructure Requirements.aux"'.
 
-
-(chapters/New Infrastructure Requirements.tex) [10
+ (chapters/New Infrastructure Requirements.tex)
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.116 	\newpage
+                [7
 
 
 
 ]
 \openout2 = `"chapters/Designing of the New Infrastructure.aux"'.
 
-
-(chapters/Designing of the New Infrastructure.tex) [11
+ (chapters/Designing of the New Infrastructure.tex)
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.121 	\newpage
+                [8
 
 
 
 ]
 \openout2 = `"abstract/Glossary of Terms.aux"'.
 
-
-(abstract/Glossary of Terms.tex) [12
+ (abstract/Glossary of Terms.tex)
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.126 	\newpage
+                [9
 
 
 
 ]
 \openout2 = `abstract/Bibliography.aux'.
 
- (abstract/Bibliography.tex) [13
+ (abstract/Bibliography.tex)
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.131 	\newpage
+                [10
 
 
 
 ]
 \openout2 = `abstract/Acknowledgments.aux'.
 
-
-(abstract/Acknowledgments.tex) (Masters Thesis.aux
+ (abstract/Acknowledgments.tex) (Masters Thesis.aux
 (chapters/Thesis Title Page.aux) (abstract/Introduction.aux)
 (chapters/Virtual machines.aux)
 (chapters/Previous infrastructure, research and preparation.aux)
@@ -738,17 +798,17 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 (abstract/Glossary of Terms.aux) (abstract/Bibliography.aux)
 (abstract/Acknowledgments.aux))
  ***********
-LaTeX2e <2023-11-01>
-L3 programming layer <2023-12-11>
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `"Masters Thesis".out' has not changed.
 (rerunfilecheck)             Checksum: 0A49C568FA16A70F6E83BDB7948D14B9;116.
  ) 
 Here is how much of TeX's memory you used:
- 11891 strings out of 474494
- 195172 string characters out of 5753731
- 1929460 words of memory out of 5000000
- 33900 multiletter control sequences out of 15000+600000
+ 11881 strings out of 474484
+ 195112 string characters out of 5753527
+ 1929542 words of memory out of 5000000
+ 33911 multiletter control sequences out of 15000+600000
  571604 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,1211b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -760,9 +820,9 @@ arm1440.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
 i600\labx2488.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
 /dpi600\labx1440.pk> <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
 t2a/dpi600\labx2074.pk>
-Output written on "Masters Thesis.pdf" (14 pages, 2920747 bytes).
+Output written on "Masters Thesis.pdf" (14 pages, 2918065 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
+ 363 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
  44 words of extra memory for PDF output out of 10000 (max. 10000000)
 
